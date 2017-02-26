@@ -4,4 +4,6 @@ layout: default
 
 welcome to farok.id
 
-enjoy..
+Enjoy..
+
+Go back <a href="{{ site.url }}" class="btn">Home</a>.
